@@ -34,9 +34,14 @@
 ## CONTACT INFORMATION
 ### Martin Sila Mandina 
 #### Email: martinsmandina@gmail.com
-### Charle
-####
+### Charles Micheni
+#### charlesmugambi100@gmail.com
+### Rodgers Ouko
+#### gabrielaouko@gmail.com
+### Silvia Kago
+#### deejaykayslyk@gmail.com
+### Kevin Ligare
+#### kevinambundo3@gmail.com
 
 
-### LICENSE
-#### * Copyright (c) 2019 **Martin Mandina**
+
