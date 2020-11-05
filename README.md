@@ -30,7 +30,7 @@
 #### 3. Change working directory to preffered location where you want to clone directory.
 #### 4. Create a virtual environment on your working directory.
 #### 5. Install flask and its depedencies in your virtual environment.
-#### 6. Use command line Python 'your version' manage.py server to run application after installing manager
+#### 6. Use command line Python 'your current version' manage.py server to run application after installing manager
 #### 7. Open application on ypur browser on port `127.0.0.1:5000`. 
 ## CONTACT INFORMATION
 ### Martin Sila Mandina 
