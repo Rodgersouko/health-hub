@@ -1,16 +1,17 @@
 ## health-hub
 #### Live Link:''
 ### Description:
-#### A web application that offers professional consultation,diagnosis and prescription at no cost, This application cuts off the need to be physically available at a medical facility by bringing the doctors to you. 
-### Contributors
+#### A web application that offers professional consultation,diagnosis and prescription at no cost, This application cuts off the need to be physically available at a medical facility by bringing the doctors to you through online interaction. 
+### Contributors:
 #### Rodgers Ouko(Scrum Master)
 #### Kevin Ligare Ambundo
 #### Charles Micheni
 #### Silvia Kago
 #### Martin Mandina
 ### BDD AS A USER :
-#### Be able to load all pages.
-#### Be able to sign up,sign in.
+#### Access home page,
+#### Be able to load all pages,
+#### allows a user to to sign up and log in,
 #### succesfully post a description.
 ### TECHNOLOGIES:
 #### Python3.6
