@@ -9,9 +9,9 @@
 #### Silvia Kago
 #### Martin Mandina
 ### BDD AS A USER :
-#### Access home page
-#### Be able to load all pages.
-#### allows a user to to sign up and log in.
+#### Access home page,
+#### Be able to load all pages,
+#### allows a user to to sign up and log in,
 #### succesfully post a description.
 ### TECHNOLOGIES:
 #### Python3.6
