@@ -1,6 +1,6 @@
 import os
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 class Config:
     '''
@@ -13,7 +13,7 @@ class Config:
     UPLOADED_PHOTOS_DEST = 'app/static/photos'
     SECRET_KEY = os.environ.get('SECRET_KEY')
     SECRET_KEY = os.urandom(32)
-    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://postgres:Access@localhost/pitcher'
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://martinmandina:alicewambui@localhost/pitcher'
     DEBUG = True
 
 
