@@ -1,12 +1,12 @@
 {% macro display(piches) %}
-<div class="container-fluid">
+<div class="container-fluid" >
     <div class="row">
         {% if piches %}
         {% for category in piches %}
         <div class="col-md-4">
             <div class="thumbnail" id="carded">
-                <h5 class="card-header">{{category.title}}</h5>
-                <div class="card-body">
+                <h5 class="card-header" style="background-color: skyblue;">{{category.title}}</h5 >
+                <div class="card-body" style="background-color: white;">
                     <p>{{category.post}}</p>
                     <p class="text-center"> Category: {{category.category}}</p>
                     <footer class="blockquote-footer text-center"> Posted by: {{category.user.username}}</footer>
@@ -22,7 +22,7 @@
 
                     <a href="{{url_for('main.comment',pitch_id = category.id)}}" class="btn btn-info btn-sm">
                         Comment</a>
-                </div>
+                </div><br><br>
             </div>
         </div>
 

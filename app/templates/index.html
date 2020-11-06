@@ -2,12 +2,13 @@
 {% import 'macros.html' as macro %}
 
 {% block content %}
+<body background="{{ url_for('static', filename='../images/tests.jpg') }}">
 
-<div class="container" id="particles-js">
-    <h2 class="text-center" id="posts">HEALTH-HUB</h2>
+<div class="container" id="particles-js" style="background-color:rgb(81, 102, 126);"><br>
+    <strong><h2 class="text-center" id="posts" style="color: white;">HEALTH-HUB</h2></strong>
     <ul class="nav nav-pills nav-justified nav-fill" role="tablist">
         <li class="nav-item">
-            <a id="cats" class="nav-link" data-toggle="tab" href="#"><strong>Health</strong> </a>
+            <a id="cats" class="nav-link" data-toggle="tab" href="#" style="color: white;" ><strong>Health</strong> </a>
         </li>
         <li class="nav-item">
             <a class="nav-link" id="cats" data-toggle="tab" href="#"></a>
