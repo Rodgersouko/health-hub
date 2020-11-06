@@ -4,9 +4,9 @@
 #### A web application that offers professional consultation,diagnosis and prescription at no cost, This application cuts off the need to be physically available at a medical facility by bringing the doctors to you through online interaction. 
 ### Contributors:
 #### Rodgers Ouko(Scrum Master)
-#### Kevin Ligare Ambundo
-#### Charles Micheni
-#### Silvia Kago
+#### Kevin Ligare Ambundo.
+#### Charles Micheni.
+#### Silvia Kago.
 #### Martin Mandina
 ### BDD AS A USER :
 #### Access home page,
@@ -15,7 +15,7 @@
 #### succesfully post a description.
 ### TECHNOLOGIES:
 #### Python3.6
-#### HTML
+#### HTML.
 #### CSS
 #### Bootstrap
 ### DEPENDECIES(main):
