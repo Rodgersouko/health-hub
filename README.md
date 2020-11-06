@@ -15,7 +15,7 @@
 #### succesfully post a description.
 ### TECHNOLOGIES:
 #### Python3.6
-#### HTML
+#### HTML.
 #### CSS
 #### Bootstrap
 ### DEPENDECIES(main):
