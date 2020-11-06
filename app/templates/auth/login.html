@@ -5,11 +5,11 @@
 {{super()}}
 <link rel="stylesheet" href="{{url_for('static',filename='css/particle.css')}}">
 {% endblock %}
-<div class="container">
-    <div class="row" id="particle-js">
+<div class="container" style="color: white;">
+    <div class="row" id="particle-js" style="background-color: rgb(81, 102, 126);">
         <div class="col-md-3"></div>
         <div class="col-md-6" id="login">
-            <h3 class="text-center"><i ></i>&nbsp; <strong class="text-center">Log
+            <h3 class="text-center" ><i ></i>&nbsp; <strong class="text-center">Log
                     In Here</strong></h3>
             {% for message in get_flashed_messages() %}
             <div class="alert alert-danger">
